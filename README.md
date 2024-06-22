@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Hello I'm Jawad Rada 🌟</h1>
 
 ## A Little About Me 📚
-I'm a senior at CUNY College of Staten Island majoring in Computer Science with a minor in Business. I'm the vice president of the Computer Science Club and a Machine Learning and AI fellow at Break Through Tech hosted by Cornell. I'm passionate about building full-stack applications that integrate the use of machine learning and AI. I also enjoy working on projects that intersect with my passions outside of school.
+I'm a senior at CUNY College of Staten Island majoring in Computer Science with a minor in Business. I'm the vice president of the Computer Science Club and a Machine Learning and AI fellow at Break Through Tech hosted @ Cornell Tech. I'm passionate about building full-stack applications that integrate the use of machine learning and AI. I also enjoy working on projects that intersect with my passions outside of school.
 
 ## What I'm Currently Up To 👨‍💻
 This summer, I will be interning at a non-profit called Uptown and Boogie Healthy Project as a software engineering intern. I will also be working on a personal project: a language translating and educational resource application. Additionally, I will be refactoring code from old projects.
