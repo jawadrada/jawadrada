@@ -22,6 +22,7 @@ https://www.linkedin.com/in/jawad-rada/
 
 - **Development Tools**:
   ![Chrome Dev Tools](https://img.shields.io/badge/Chrome_Dev_Tools-4285F4?style=flat&logo=google-chrome&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 - **Libraries/Frameworks**:
