@@ -4,7 +4,7 @@
 I'm a senior at CUNY College of Staten Island majoring in Computer Science with a minor in Data Science. I'm the vice president of the Computer Science Club and a AI and Machine Learning fellow at Break Through Tech AI hosted @ Cornell Tech. I'm passionate about building full-stack applications that integrate the use of machine learning and AI. I also enjoy working on projects that intersect with my passions outside of school.
 
 ## What I'm Currently Up To 👨‍💻
-This Fall Semester, I will be taking two notable classes: an **Artificial Intelligence** class at CSI and an **advanced web development** class taught by CodePath. As part of **Break Through Tech AI**, I will be developing a **machine learning** project to predict the impact hurricanes will have on shipping lanes and ports. I will also be working on a personal project: a **language translating and educational resource application**. Additionally, I will be refactoring code from old projects.
+This Spring Semester, I will take a Data Science class at CSI along with other courses. I am volunteering at Develop for Good as a Frontend Engineer, contributing to a project that supports nonprofit organizations. Additionally, I will work on a personal project—a language translation and educational resource application—and refactor code from previous projects.
 
 ## Let's Connect 🌐
 https://www.linkedin.com/in/jawad-rada/
