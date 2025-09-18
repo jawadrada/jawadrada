@@ -4,7 +4,7 @@
 I’m a senior at CUNY College of Staten Island, majoring in Computer Science with a minor in Mathematics. I previously served as Vice President of the Computer Science Club. I’m passionate about building full-stack applications that leverage machine learning and AI, and I enjoy working on projects that connect with my interests outside of school.
 
 ## What I'm Currently Up To 👨‍💻
-This Fall Semester, I am wrapping up my Mathematics minor at CUNY CSI and continuing to develop LingoVerse, a personal project a language translation and learning application. I'm also starting to explore open source projects and contribute where I can.
+This Fall Semester, I am wrapping up my Mathematics minor and continuing to develop LingoVerse, a personal project a language translation and learning application. I'm also starting to explore open source projects and contribute where I can.
 
 ## Let's Connect 🌐
 https://www.linkedin.com/in/jawad-rada/
